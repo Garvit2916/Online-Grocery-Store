@@ -1,0 +1,10 @@
+Sugar,60.0,50
+Flour,50.0,20
+Cereal,40.0,10
+Milk,45.0,25
+Cookies,30.0,45
+Candy,15.0,40
+Rice,50.0,45
+Cake,60.0,30
+Cold Drinks,20.0,40
+Chips,20.0,35
